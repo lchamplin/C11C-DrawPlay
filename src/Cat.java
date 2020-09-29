@@ -1,3 +1,4 @@
+//Lilly Sline and Lauren Champlin
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
