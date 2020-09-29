@@ -1,0 +1,59 @@
+Lauren Champlin and Lilly Sline
+CSCI306-B
+C11A-1
+
+
+
+commit f48bf8c973427ef76e4f447fedc37603b4cd9739
+Author: Lauren Champlin <lchamplin@mymail.mines.edu>
+Date:   Tue Sep 29 12:01:37 2020 -0600
+
+    added a second cat located down and to the right of the original
+
+commit d03afc096ac909b24f17aec4d71c1d1f7d6bbc02
+Author: Lilly Raeanne Sline <lillyraeannesline@csm-wl-dhcp-195-82.mines.edu>
+Date:   Tue Sep 29 11:59:24 2020 -0600
+
+    changed the size of the cat
+
+commit 15592090deaba740bc6ffb39cab5a077cb28c103
+Author: Lauren Champlin <lchamplin@mymail.mines.edu>
+Date:   Tue Sep 29 11:58:25 2020 -0600
+
+    increased eye and head size
+
+commit f1acff901c9e4c7aca120bcb7acbe9a3c74089ce
+Author: Lilly Raeanne Sline <lillyraeannesline@csm-wl-dhcp-195-82.mines.edu>
+Date:   Tue Sep 29 11:55:40 2020 -0600
+
+    changed g2.setColor to blue
+
+commit caf4d599c6153a5c0abb27981324d58bbdad5c1f
+Author: Lauren Champlin <lchamplin@mymail.mines.edu>
+Date:   Tue Sep 29 11:53:40 2020 -0600
+
+    made cat grey and meow text red
+
+commit ee2e9802a9e7f75c2ea5bc8ca2f04a1b0e69ce04
+Author: Lilly Raeanne Sline <lillyraeannesline@csm-wl-dhcp-195-82.mines.edu>
+Date:   Tue Sep 29 11:52:08 2020 -0600
+
+    changed frame size
+
+commit 39191396a9acdb78eca9fe65dee75ad14e780acd
+Author: lchamplin <64993817+lchamplin@users.noreply.github.com>
+Date:   Tue Sep 29 11:33:18 2020 -0600
+
+    Update .gitignore
+
+commit 829829bbc41b1cd8801ba684423f75e22bdedf3a
+Author: Lauren Champlin <lchamplin@mymail.mines.edu>
+Date:   Tue Sep 29 11:30:18 2020 -0600
+
+    first commit, git hub repo set up
+
+commit 91f18dc744fb2f9cfced8a10780f9d949041bc9d
+Author: lchamplin <64993817+lchamplin@users.noreply.github.com>
+Date:   Tue Sep 29 11:21:33 2020 -0600
+
+    Initial commit
